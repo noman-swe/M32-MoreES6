@@ -19,3 +19,6 @@ console.log(phone);
 console.log(price);
 console.log(dress);
 console.log(id); 
+
+// 
+const 
